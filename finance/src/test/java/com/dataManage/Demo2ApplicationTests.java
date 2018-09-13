@@ -35,5 +35,7 @@ public class Demo2ApplicationTests {
         list.add(user2);
         userMapper.insertList(list);
     }
+    
+    public void test(){}
 
 }
