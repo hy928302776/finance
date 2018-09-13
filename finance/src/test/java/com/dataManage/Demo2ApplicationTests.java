@@ -36,6 +36,9 @@ public class Demo2ApplicationTests {
         userMapper.insertList(list);
     }
     
-    public void test(){}
+    public void test(){
+    	
+    	System.out.println("dddddddddddddddddddddddddddddd");
+    }
 
 }
