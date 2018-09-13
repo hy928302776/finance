@@ -36,6 +36,8 @@ public class Demo2ApplicationTests {
         userMapper.insertList(list);
     }
     
-    private void status(){}
+    private void status(){
+    	System.out.println("===");
+    }
 
 }
